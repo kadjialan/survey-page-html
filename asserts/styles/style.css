@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+#student{
+    background:linear-gradient(rgba(0,0,0,0.5),#110096),url(../image/student.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.student-text{
+    text-align: center;
+    color:azure;
+    padding: 100px;
+    line-break: normal;
+    
+}
