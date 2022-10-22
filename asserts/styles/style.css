@@ -12,6 +12,27 @@
     text-align: center;
     color:azure;
     padding: 100px;
-    line-break: normal;
+    line-break: strict;
+
     
 }
+.name{
+    position: relative;
+    color: azure;
+    text-align: justify;
+    left: 35%;   
+
+}
+.email{
+    position: relative;
+    color: azure;
+    text-align: justify;
+    left: 35%;   
+}
+.age{
+    position: relative;
+    color: azure;
+    text-align: justify;
+    left: 35%;   
+}
+    
