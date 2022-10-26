@@ -18,10 +18,9 @@ body {
 
 #container {
   display: block;
-  padding: 10px 35%;
-  background-color: rga(12, 12, 53, 71%);
-  margin: 100px;
-  width: -6s0vw;
+  padding: 10px 30%;
+  background-color: rgb(12, 12, 53, 71%);
+  margin: 120px;
 }
 
 .border {
