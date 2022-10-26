@@ -1,39 +1,48 @@
-*{
-background-image: linear-gradient(115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7)) ,url(../image/student.jpg);
+body {
+  background-image: linear-gradient(115deg, rgb(58, 58, 158, 55%), rgb(136, 136, 206, 72%)) ,url(../image/student.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  color: azure;
+  color: white;
 } 
 
- 
-.header{
-    text-align: center;
-    font-size: 20px;
+.header {
+  text-align: center;
+  font-size: 30px;
 }
 
-.form{
-    background-color:azure;
-    color: black;
+.header h1 {
+  font-size: larger;
+  text-size-adjust: 100px;
 }
-#container{
-    text-align: justify;
-    padding: 35px;
-    left: 35%;
-    position: relative;
+
+#container {
+  display: block;
+  padding: 10px 35%;
+  background-color: rga(12, 12, 53, 71%);
+  margin: 100px;
+  width: -6s0vw;
 }
-.label{
-    color: #000;
+
+.border {
+  width: 30vw;
+  height: 35px;
+  background-color: azure;
+  border-radius: 10px;
 }
-.border{
-    background-color: white;
-    width: 180px;
-    text-decoration: #000;
+
+textarea {
+  background-color: azure;
+  width: 30vw;
 }
-#button{
-    background-color: green;
-    width: 30px;
+
+button{
+  width: 30vw;
+  height: 20px;
+  background-color: green;
 }
+
+
 
 
 
